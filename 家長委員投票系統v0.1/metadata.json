@@ -1,0 +1,6 @@
+{
+  "name": "家長委員投票系統",
+  "description": "提供家長登記、多重身份及同戶篩選除錯、各年級家長委員選舉（含同票抽籤/二輪投票）、常務委員選舉與家長會長選舉全流程，並在電視大螢幕即時統計並呈現選舉結果，自動生成會務組織名冊與會議紀錄。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
